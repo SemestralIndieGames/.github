@@ -1,42 +1,49 @@
 # Semestral Indie Games
 
-**Original indie games crafted with intent, emotion, and experimentation.**
+**Creating games with soul, shadows, and strange beauty.**
 
-Semestral Indie Games is a solo development studio focused on creating small, atmospheric, and meaningful video games. Inspired by the idea of releasing a new title every six months, our goal is to explore fresh mechanics, tell compelling stories, and build strange worlds with character.
+_Semes­tral Indie Games_ is a creative studio focused on designing unique and atmospheric video games. Each project we build is an exploration—of mechanics, of emotion, of decay and rebirth. We are driven by experimentation, narrative systems, and the belief that small teams can craft unforgettable worlds.
 
-We are currently working on our first official release:
+Our current project:
 
-## 🎮 Final Fragment
+---
 
-A dark, card-based roguelite set in a crumbling world of flesh, memory, and ritual.
+## 🕯️ Final Fragment
 
-> “There are no heroes left. Only fragments of what they could have been.”
+*A card-based roguelite set in a dying world—where flesh, memory, and power twist into something unholy.*
 
-In **Final Fragment**, you guide a cursed character through corrupted paths, collect strange abilities, and fight to survive one more day. The game features:
+> "There are no heroes left. Only fragments."
 
-- 🕯️ Turn-based combat with dynamic cards
-- 🧬 A mutation system that changes how your character evolves
-- 🗺️ Map-based progression with choices, events, and ambushes
-- 🐾 A protagonist bound to a demonic hound, haunted by past lives
+In **Final Fragment**, you take control of a cursed character wandering corrupted lands, collecting memories, mutations, and abilities while fighting your way through hostile paths. The experience blends tactical deck-building with dark worldbuilding, roguelite structure, and a visually striking 2D presentation.
 
-Built with [Godot 4.4](https://godotengine.org/) using **C#**, handcrafted visuals, and a gothic aesthetic designed for both PC and web.
+- ⚔️ Card-based tactical combat with dynamic upgrades  
+- 🧬 Mutations that alter both stats and appearance  
+- 🗺️ Non-linear map progression with events, ambushes, and choices   
 
-## 🔧 Tech & Tools
+Built with [Godot 4.4](https://godotengine.org/) using **C#**, handcrafted visuals, shaders, and an original narrative structure. Designed for PC and web.
 
-- **Engine**: Godot 4.4 (Compatibility renderer for Web + Android support)
-- **Language**: C#
-- **Design**: Clean architecture, DDD-inspired game structure
-- **Graphics**: 2D art (pixel-art & vector mix), procedural effects and shaders
-- **Workflow**: Local-first development, AI-assisted content generation (when appropriate)
+---
 
-## 📬 Get in touch
+## 🛠 Tech & Approach
 
-Semestral Indie Games is open to collaboration, feedback, and community interaction. Whether you’re a fellow dev, composer, illustrator, or just curious, feel free to reach out.
+- 🎮 **Engine**: Godot 4.4 (Compatibility renderer for Web & Android)
+- 🧠 **Architecture**: Modular, clean, domain-driven
+- 🎨 **Visual style**: 2.5D Gothic with stylized sprites, procedural shaders, layered effects
+- ✍️ **Narrative**: Emergent systems, dark lore, and fragment-based storytelling
+- 🧪 **Tools**: In-house tools + AI-assisted workflows for design and iteration
 
-- 📧 Email: [your-email@example.com]
-- 🕹️ itch.io: [your-itch-link]
-- 💬 Mastodon / Twitter / Bluesky: [add-if-available]
+---
 
-## 📝 License
+## 📬 Connect
 
-Each project has its own license and terms. Please refer to individual repositories for details.
+We are open to collaboration, creative exchange, and thoughtful feedback. If you're a fellow developer, artist, or simply intrigued by our work, feel free to reach out.
+
+- 📧 Email: [your-email@example.com]  
+- 🕹️ [itch.io profile link]  
+- 🐦 [social handle(s) if available]
+
+---
+
+## 📜 License
+
+All projects under this organization have individual licenses. Please refer to each repository for full details.
