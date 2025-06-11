@@ -38,7 +38,7 @@ Built with [Godot 4.4](https://godotengine.org/) using **C#**, handcrafted visua
 
 We are open to collaboration, creative exchange, and thoughtful feedback. If you're a fellow developer, artist, or simply intrigued by our work, feel free to reach out.
 
-- 📧 Email: [your-email@example.com]  
+- 📧 Email: [contact@semestralindiegame.site]  
 - 🕹️ [itch.io profile link]  
 - 🐦 [social handle(s) if available]
 
