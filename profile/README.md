@@ -14,7 +14,7 @@ I have sworn upon black marble to deliver a new work of visceral horror every si
 
 ## **⚒️ In the Forge (Current Project)**
 
-### **🕹️ \[Name of the Condensed Metroidvania\]**
+### **🕹️ \[Coming soon]**
 
 A visceral descent into a world of satin scars and rusted steel.
 
