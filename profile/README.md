@@ -1,49 +1,42 @@
-# Semestral Indie Games
+# **🌑 Semestral Indie Games: The Standard of the Forge**
 
-**Creating games with soul, shadows, and strange beauty.**
+*"One work. One cycle. A gift to the void."*
 
-_Semes­tral Indie Games_ is a creative studio focused on designing unique and atmospheric video games. Each project we build is an exploration—of mechanics, of emotion, of decay and rebirth. We are driven by experimentation, narrative systems, and the belief that small teams can craft unforgettable worlds.
+Welcome to the digital chronicles of **Semestral Indie Games**. This space is more than a mere code repository; it is the record of a ritual struggle against time and silence. Here, we document the bending of nodes and the invocation of logic to erect monuments to visceral horror and wounded beauty.
 
-Our current project:
+## **🏛️ The Oath of the Six Moons**
 
----
+I have sworn upon black marble to deliver a new work of visceral horror every six moons (180 days). This GitHub is the altar where technical runes (code) come to life before being delivered unto the world free of charge.
 
-## 🕯️ Final Fragment
+* **Cadence:** 1 work per semester.  
+* **Philosophy:** Art is a sanctuary, and a sanctuary is not sold; it is offered.  
+* **Tool:** The **Godot Engine**, used as the hammer that shapes what should not exist.
 
-*A card-based roguelite set in a dying world—where flesh, memory, and power twist into something unholy.*
+## **⚒️ In the Forge (Current Project)**
 
-> "There are no heroes left. Only fragments."
+### **🕹️ \[Name of the Condensed Metroidvania\]**
 
-In **Final Fragment**, you take control of a cursed character wandering corrupted lands, collecting memories, mutations, and abilities while fighting your way through hostile paths. The experience blends tactical deck-building with dark worldbuilding, roguelite structure, and a visually striking 2D presentation.
+A visceral descent into a world of satin scars and rusted steel.
 
-- ⚔️ Card-based tactical combat with dynamic upgrades  
-- 🧬 Mutations that alter both stats and appearance  
-- 🗺️ Non-linear map progression with events, ambushes, and choices   
+* **Status:** Initial gestation (Day 1 of 180).  
+* **Technology:** Godot Engine / GDScript.  
+* **Objective:** A short, heavy, and atmospheric experience that will mutate over time.
 
-Built with [Godot 4.4](https://godotengine.org/) using **C#**, handcrafted visuals, shaders, and an original narrative structure. Designed for PC and web.
+## **🕯️ The Legacy and the Covenant**
 
----
+If the shadows I cast here resonate with your will, you may follow the tolling of the bell across my other domains:
 
-## 🛠 Tech & Approach
+* 🌐 **The Threshold (Official Web):** [semestralindiegames.site](https://semestralindiegames.site)  
+* 🍷 **The Blood Covenant (Patreon):** [Semestral Indie Games on Patreon](https://www.patreon.com/SemestralIndieGames)  
+* ⚰️ **The Catacombs (itch.io):** [Semestral Indie Games on itch.io](https://semestralindiegames.itch.io/)  
+* 🎬 **The Echo of the Forge (YouTube):** [Semestral Indie Games on YouTube](https://www.youtube.com/@SemestralIndieGames)
 
-- 🎮 **Engine**: Godot 4.4 (Compatibility renderer for Web & Android)
-- 🧠 **Architecture**: Modular, clean, domain-driven
-- 🎨 **Visual style**: 2.5D Gothic with stylized sprites, procedural shaders, layered effects
-- ✍️ **Narrative**: Emergent systems, dark lore, and fragment-based storytelling
-- 🧪 **Tools**: In-house tools + AI-assisted workflows for design and iteration
+## **📜 A Note for the Wanderers**
 
----
+The code within these repositories is the bone and tendon of my works. For the **Hierophants of the Gear** (Tier III Patrons), this place holds the technical secrets that sustain my nightmares. If you seek to learn or collaborate in the name of horror, you are welcome to observe the runes.
 
-## 📬 Connect
+*"Time is ash. Creation is eternal."*
 
-We are open to collaboration, creative exchange, and thoughtful feedback. If you're a fellow developer, artist, or simply intrigued by our work, feel free to reach out.
+**Semestral Indie Games**
 
-- 📧 Email: [contact@semestralindiegame.site]  
-- 🕹️ [itch.io profile link]  
-- 🐦 [social handle(s) if available]
-
----
-
-## 📜 License
-
-All projects under this organization have individual licenses. Please refer to each repository for full details.
+*In the name of Silence, Art, and the Eternal Cadence.*
